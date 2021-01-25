@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name eurocad)(type Legacy)(uri /Users/quinkennedy/Documents/me/hardware/eurocad/eurocad.lib)(options "")(descr ""))
+  (lib (name Miasma_IO_smd-cache)(type Legacy)(uri /Users/quinkennedy/Documents/me/hardware/Miasma_SMD/Miasma_IO_smd/Miasma_IO_smd-cache.lib)(options "")(descr ""))
+)
